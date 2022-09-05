@@ -1,0 +1,9 @@
+{
+  "name": "WiiU Main Menu",
+  "description": "Adds The WiiU Main Menu Music (gamepad) to your deck!",
+  "author": "Haxorzz",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
