@@ -1,0 +1,9 @@
+{
+  "name": "Wii U Download Management",
+  "description": "Adds The Wii U Download management theme to your deck! Credit to: https://archive.org/details/wiiumusic for the Rip",
+  "author": "Haxorzz",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}

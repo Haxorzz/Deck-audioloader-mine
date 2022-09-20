@@ -1,0 +1,9 @@
+{
+  "name": "Wii U Settings",
+  "description": "Adds The Wii U Settings Music (TV) to your deck! Credit to: https://archive.org/details/wiiumusic for the Rip",
+  "author": "Haxorzz",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
